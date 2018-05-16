@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shaz.chat">
+
+    <application>
+        <activity android:name=".activities.Chat" />
+        <activity android:name=".activities.ChatActivity"
+             android:label="Shahbaz"
+
+            ></activity>
+    </application>
+
+</manifest>
